@@ -2,7 +2,7 @@
 ![program file](wdtex1op)
 
 # sample input&output
-![sample input&output](sampleinput)
+![sample input&output](sampleinput.jpg)
 
 # tested input&output
-![tested input&output](testedoutput)
+![tested input&output](testedoutput.jpg)
