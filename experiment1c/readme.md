@@ -1,5 +1,5 @@
 # program file
-![program file](wdtex1op)
+![program file](wdtex1op.docx)
 
 # sample input&output
 ![sample input&output](sampleinput.jpg)
